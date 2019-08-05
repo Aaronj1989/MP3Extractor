@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+
+
+.error-message{
+	
+	 font-size: 90%;
+    color: green;
+    font-style: italic;
+}
