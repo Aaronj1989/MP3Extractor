@@ -46,7 +46,7 @@ public class MP3Extractor {
 	      
 	    
 	      String title = metadata.get(TikaCoreProperties.TITLE);
-	      System.out.println(title);
+	     
 	      String artist = metadata.get(TikaCoreProperties.CREATOR);
 	      int year = Integer.parseInt(metadata.get(XMPDM.RELEASE_DATE));
 
